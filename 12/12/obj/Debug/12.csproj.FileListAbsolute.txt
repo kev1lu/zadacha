@@ -1,0 +1,45 @@
+D:\Захаров 33гр\12\12\bin\Debug\12.exe.config
+D:\Захаров 33гр\12\12\bin\Debug\12.exe
+D:\Захаров 33гр\12\12\bin\Debug\12.pdb
+D:\Захаров 33гр\12\12\obj\Debug\MainWindow.g.cs
+D:\Захаров 33гр\12\12\obj\Debug\App.g.cs
+D:\Захаров 33гр\12\12\obj\Debug\12_MarkupCompile.cache
+D:\Захаров 33гр\12\12\obj\Debug\12_MarkupCompile.lref
+D:\Захаров 33гр\12\12\obj\Debug\MainWindow.baml
+D:\Захаров 33гр\12\12\obj\Debug\12.g.resources
+D:\Захаров 33гр\12\12\obj\Debug\_12.Properties.Resources.resources
+D:\Захаров 33гр\12\12\obj\Debug\12.csproj.GenerateResource.cache
+D:\Захаров 33гр\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+D:\Захаров 33гр\12\12\obj\Debug\12.exe
+D:\Захаров 33гр\12\12\obj\Debug\12.pdb
+D:\Работы VS2019\12\12\bin\Debug\12.exe.config
+D:\Работы VS2019\12\12\bin\Debug\12.exe
+D:\Работы VS2019\12\12\bin\Debug\12.pdb
+D:\Работы VS2019\12\12\obj\Debug\12.csproj.AssemblyReference.cache
+D:\Работы VS2019\12\12\obj\Debug\12.csproj.SuggestedBindingRedirects.cache
+D:\Работы VS2019\12\12\obj\Debug\MainWindow.g.cs
+D:\Работы VS2019\12\12\obj\Debug\App.g.cs
+D:\Работы VS2019\12\12\obj\Debug\12_MarkupCompile.cache
+D:\Работы VS2019\12\12\obj\Debug\12_MarkupCompile.lref
+D:\Работы VS2019\12\12\obj\Debug\MainWindow.baml
+D:\Работы VS2019\12\12\obj\Debug\12.g.resources
+D:\Работы VS2019\12\12\obj\Debug\_12.Properties.Resources.resources
+D:\Работы VS2019\12\12\obj\Debug\12.csproj.GenerateResource.cache
+D:\Работы VS2019\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+D:\Работы VS2019\12\12\obj\Debug\12.exe
+D:\Работы VS2019\12\12\obj\Debug\12.pdb
+C:\Users\PK\Desktop\все с раб стола\12\12\12\bin\Debug\12.exe.config
+C:\Users\PK\Desktop\все с раб стола\12\12\12\bin\Debug\12.exe
+C:\Users\PK\Desktop\все с раб стола\12\12\12\bin\Debug\12.pdb
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.csproj.AssemblyReference.cache
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\MainWindow.g.cs
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\App.g.cs
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12_MarkupCompile.cache
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12_MarkupCompile.lref
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\MainWindow.baml
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.g.resources
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\_12.Properties.Resources.resources
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.csproj.GenerateResource.cache
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.exe
+C:\Users\PK\Desktop\все с раб стола\12\12\12\obj\Debug\12.pdb
